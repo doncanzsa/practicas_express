@@ -1,0 +1,14 @@
+{
+  "name": "practicas_express",
+  "version": "1.0.0",
+  "description": "Practicas de express",
+  "main": "express_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doncans",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
